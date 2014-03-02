@@ -14,5 +14,6 @@
 <body>
 <h1>IT against corruption in Ukraine</h1>
 <p>Опенсорс стартап для борьбы с коррупцией в Украине</p>
+<g:link controller="corruptionIncident">Коррупция на карте</g:link>
 </body>
 </html>

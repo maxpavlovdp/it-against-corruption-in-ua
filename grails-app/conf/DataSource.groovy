@@ -32,11 +32,11 @@ environments {
         dataSource {
             pooled = true
             dbCreate = "update"
-            url = "jdbc:mysql://us-cdbr-east-05.cleardb.net"
+            url = "jdbc:mysql://b3bb5ebe84ff1f:6dae7498@us-cdbr-iron-east-02.cleardb.net:3306/ad_e1197928f91d56d"
             driverClassName = "com.mysql.jdbc.Driver"
             dialect = org.hibernate.dialect.MySQL5InnoDBDialect
-            username = "b267eefed5c295"
-            password = "403a369a"
+            username = "ad_e1197928f91d56d"
+            password = "6dae7498"
         }
 //        dataSource {
 //            dbCreate = "update"
